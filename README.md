@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning React<br>🤝 I’m looking for help with projects with MERN stack based code.<br>👯 I’m looking to collaborate on The Palisadoes Project<br>💬 Ask me about nodejs, express, css and other related tech<br>📫 Reach me through jainsiddharth.rattan1@gmail.com or dm at https://www.linkedin.com/in/siddharth-jain-9578191a9/<br>⚡ Fun fact a cloud weighs around a million tonnes
+🌱 I’m currently learning React<br>🤝 I’m looking for help with projects with MERN stack based code.<br>👯 I’m looking to collaborate on [The Palisadoes Project](https://github.com/PalisadoesFoundation)
+<br>💬 Ask me about nodejs, express, css and other related tech<br>📫 Reach me through jainsiddharth.rattan1@gmail.com or dm at https://www.linkedin.com/in/siddharth-jain-9578191a9/<br>⚡ Fun fact a cloud weighs around a million tonnes
 
 
 ## 🌐 Socials:
